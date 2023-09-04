@@ -10,7 +10,7 @@
 • Priority queue
 • Sequential search
 • array(2 dimensi & 1 dimensi )
-• stack
+• stack.
 Sedikit penjelasan  program ini:
 Jadi program ini merupakan sebuah sistem admin pembelian dan antrian tiket
 bus yang memiliki pilihan menu yaitu :
